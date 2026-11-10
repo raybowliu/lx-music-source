@@ -25,8 +25,8 @@
       "last_status": "异常"
     },
     "a.aa.cab": {
-      "consecutive_failures": 0,
-      "last_status": "可用"
+      "consecutive_failures": 1,
+      "last_status": "异常"
     },
     "api-v2.yuafeng.cn": {
       "consecutive_failures": 0,
@@ -53,7 +53,7 @@
       "last_status": "失效"
     },
     "api.cenguigui.cn": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 0,
       "last_status": "异常"
     },
     "api.chksz.top": {
@@ -78,7 +78,7 @@
     },
     "api.music.lerd.dpdns.org": {
       "consecutive_failures": 0,
-      "last_status": "异常"
+      "last_status": "可用"
     },
     "api.nki.pw": {
       "consecutive_failures": 0,
@@ -93,8 +93,8 @@
       "last_status": "可用"
     },
     "api.vsaa.cn": {
-      "consecutive_failures": 1,
-      "last_status": "异常"
+      "consecutive_failures": 0,
+      "last_status": "可用"
     },
     "api.xcvts.cn": {
       "consecutive_failures": 0,
@@ -109,8 +109,8 @@
       "last_status": "失效"
     },
     "api.xunhuisi.store": {
-      "consecutive_failures": 0,
-      "last_status": "可用"
+      "consecutive_failures": 1,
+      "last_status": "异常"
     },
     "api.yaohud.cn": {
       "consecutive_failures": 0,
@@ -122,7 +122,7 @@
     },
     "api.yunmge.com": {
       "consecutive_failures": 0,
-      "last_status": "异常"
+      "last_status": "可用"
     },
     "api.yutangxiaowu.cn": {
       "consecutive_failures": 0,
@@ -141,8 +141,8 @@
       "last_status": "可用"
     },
     "cyapi.top": {
-      "consecutive_failures": 2,
-      "last_status": "失效"
+      "consecutive_failures": 0,
+      "last_status": "可用"
     },
     "dl.stream.qqmusic.qq.com": {
       "consecutive_failures": 0,
@@ -157,8 +157,8 @@
       "last_status": "失效"
     },
     "github.com": {
-      "consecutive_failures": 1,
-      "last_status": "异常"
+      "consecutive_failures": 0,
+      "last_status": "可用"
     },
     "interface3.music.163.com": {
       "consecutive_failures": 0,
@@ -325,7 +325,7 @@
     "hyw": "可用",
     "ikun": "失效",
     "jiexiang": "可用",
-    "juhe": "异常",
+    "juhe": "可用",
     "lx": "可用",
     "qdy": "可用",
     "qingliang": "可用",
@@ -333,5 +333,5 @@
     "xinghai": "可用",
     "xinglan": "可用"
   },
-  "updated_at": "2026-11-08 18:38"
+  "updated_at": "2026-11-10 08:32"
 }
